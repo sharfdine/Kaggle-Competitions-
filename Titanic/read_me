@@ -1,0 +1,5 @@
+this is my entry for kaggle's titanic competition. i actually worked on ensemble learning by takin rf,xgb, svm and knn as base learners and logistic regression as meta learner 
+i used optuna to find best params 
+then i used calibrated classifier to calibrate the predictions 
+my final score was 0.74 
+this was my first kaggle competition 
