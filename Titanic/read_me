@@ -3,3 +3,6 @@ i used optuna to find best params
 then i used calibrated classifier to calibrate the predictions 
 my final score was 0.74 
 this was my first kaggle competition 
+the reason for my low score remained the proper inclusion of title of the passengers as that also mattered 
+I will also practice SHAP on such datasets 
+
